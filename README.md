@@ -10,6 +10,3 @@ https://www.youtube.com/watch?v=Af2qKDmmlpM&list=PLTPuaYTHOktm1urZSDsTz53IqmqNph
 
 
 #### I produce many 0day and hacking exploits and publish them for free and for a fee.
-
-### zerodaymarket.com
-![image](https://github.com/user-attachments/assets/3320f088-5fe1-4a17-915b-d11501ece766)
